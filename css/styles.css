@@ -85,3 +85,17 @@ img {
 .submit:hover {
     opacity: 0.8;
 }
+
+.contact-us {
+    padding-top: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+.contact-us a {
+    color: white;
+}
+
+.contact-us a:hover {
+    opacity: 0.8;
+}
